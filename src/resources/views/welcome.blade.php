@@ -17,7 +17,8 @@
 
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css">
     </head>
-    <body class="antialiased">
+
+    <body class="bg-warning">
         <div class="container-fluid text-end bg-dark">
             @if (Route::has('login'))
                 <div class="sm:fixed sm:top-0 sm:right-0 p-6 text-right">
@@ -36,9 +37,12 @@
 
         </div>
 
-        <div>
-    <h1>home</h1>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel, natus dicta sapiente iusto sed provident consequuntur eveniet nam amet dolores mollitia accusamus exercitationem fugit a ipsam, cum quibusdam repellendus reprehenderit.</p>
-</div>
+        <div class="container mt-5">
+            <h1>Home</h1>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel, natus dicta sapiente iusto sed provident consequuntur eveniet nam amet dolores mollitia accusamus exercitationem fugit a ipsam, cum quibusdam repellendus reprehenderit.</p>
+
+            <h2>Example Website</h2>
+            <p> Edit by Dev Team</p>
+        </div>
     </body>
 </html>
