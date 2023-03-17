@@ -35,5 +35,10 @@
 
 
         </div>
+
+        <div>
+    <h1>home</h1>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel, natus dicta sapiente iusto sed provident consequuntur eveniet nam amet dolores mollitia accusamus exercitationem fugit a ipsam, cum quibusdam repellendus reprehenderit.</p>
+</div>
     </body>
 </html>
